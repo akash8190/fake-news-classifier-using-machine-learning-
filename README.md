@@ -1,4 +1,8 @@
 # fake-news-classifier-using-machine-learning-
+
+![alt text](https://images.theconversation.com/files/284418/original/file-20190717-173334-1b9vdud.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=900.0&fit=crop)
+
+
 In this project we simply classify the fake news using machine learning algorithm .It is also the part of nlp project .
 
 ## project overview
