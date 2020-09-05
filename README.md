@@ -22,6 +22,6 @@ dataset link https://www.kaggle.com/c/fake-news
 
 ## Technology used
 
-python
-scikit learn
-machine learning algoritham
+python.
+scikit learn.
+machine learning algoritham.
